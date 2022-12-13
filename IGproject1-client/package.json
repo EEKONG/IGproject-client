@@ -39,5 +39,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+   "proxy": "https://blooming-ridge-37530.herokuapp.com/"
 }
